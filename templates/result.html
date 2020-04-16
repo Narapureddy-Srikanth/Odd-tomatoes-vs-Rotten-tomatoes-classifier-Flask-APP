@@ -1,0 +1,25 @@
+
+<html>
+ 	<head>
+	<title>Image Classifier</title> 
+	<style>
+		body
+		{
+			color: SlateBlue;
+			background: LightGray;
+		}
+	</style>
+ 	</head>
+    <body align = 'center'>
+       <br><br><br><br>
+       <img id="output" height="200" width="300" src='{{file_path}}'/>
+       <h1 style="font-size: 1.5rem">
+       	Predicted Label: <span style="font-weight: bold; color:green;">{{result}} tomato</span></h1>
+       <h2 style="font-size: 1.5rem">
+       	Accuracy : <span style="font-weight: bold; color:green;">{{prob}}%</span>
+       </h2>
+       <br><br><br>
+       <a href="http://localhost:5000/">Back to home</a>
+       <br><br>
+    </body>
+</html

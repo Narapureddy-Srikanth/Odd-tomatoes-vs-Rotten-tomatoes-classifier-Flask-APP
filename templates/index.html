@@ -1,0 +1,23 @@
+<html>
+ 	<head>
+	<title>Image Classifier</title> 
+	<style>
+		body
+		{
+			color: SlateBlue;
+			background: LightGray;
+		}
+	</style>
+ 	</head>
+    <body align = 'center'>
+       <br><br>
+       <h1>Image Classifier</h1>
+       <img id="output" height="200" width="300" src='static\images\download.jpg'/>
+       <br><br>
+       <form action = "http://localhost:5000/result" method = "POST" 
+          enctype = "multipart/form-data">
+          <input type = "file" name = "file" />
+          <input type = "submit"/>
+       </form>
+    </body>
+</html
