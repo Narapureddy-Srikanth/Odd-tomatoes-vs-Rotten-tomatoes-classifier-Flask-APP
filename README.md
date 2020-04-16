@@ -2,11 +2,13 @@
 
 # FLASH APPLICATION #
 
-### AIM ###
+### Aim ###
 
 * Making a Flask application so user can upload their photos and receive the prediction.
 
-This is a simple Flask App that can classify an image as Odd or Rotten tomatoes using a convolutional neural network model. This application has Front end made with HTML and back end made with FLASK
+### Description ###
+
+* This is a simple Flask App that can classify an image as Odd or Rotten tomatoes using a convolutional neural network model. This application has Front end made with HTML and back end made with FLASK
 
 ### How to use ###
 
@@ -43,3 +45,8 @@ This is a simple Flask App that can classify an image as Odd or Rotten tomatoes 
 <img src='static/images/3.png'>
 
 </p>
+
+### Conclusion ###
+
+The Architecture and parameter used in this network are capable of producing accuracy of 94.98% on Validation Data which is pretty good. You can download this trained model from resource directory and Play with it.
+
