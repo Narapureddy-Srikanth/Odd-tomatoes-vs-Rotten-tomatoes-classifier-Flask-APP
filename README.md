@@ -2,6 +2,20 @@
 
 # FLASH APPLICATION #
 
+
+### How to use ###
+
+* In order to run our model on a Flask application locally, you need to clone this repository and then set up the environment by these    following commands:
+
+* On the Terminal, use these commands:
+
+
+    export FLASK_APP=app.py
+    flask run --host=0.0.0.0
+
+
+
+
 ### Home Page ###
 
 <p align="center">
