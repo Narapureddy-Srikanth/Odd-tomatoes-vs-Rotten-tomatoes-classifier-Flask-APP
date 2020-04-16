@@ -14,6 +14,12 @@
     flask run --host=0.0.0.0
 ```
 
+* On the Anaconda Prompt
+
+```
+    python app.py
+    
+```
 
 
 ### Home Page ###
