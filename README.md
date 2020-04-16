@@ -1,8 +1,8 @@
 # Odd-tomatoes-vs-Rotten-tomatoes-web-application-using-Flask
 
-## FLASH APPLICATION ##
+# FLASH APPLICATION #
 
-# Home Page #
+### Home Page ###
 
 <p align="center">
 
@@ -10,7 +10,7 @@
 
 </p>
 
-# Example of results #
+### Example of results ###
 
 <p align="center">
 
