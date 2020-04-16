@@ -2,6 +2,11 @@
 
 # FLASH APPLICATION #
 
+### AIM ###
+
+* Making a Flask application so user can upload their photos and receive the prediction.
+
+This is a simple Flask App that can classify an image as Odd or Rotten tomatoes using a convolutional neural network model. This application has Front end made with HTML and back end made with FLASK
 
 ### How to use ###
 
@@ -14,7 +19,7 @@
     flask run --host=0.0.0.0
 ```
 
-* On the Anaconda Prompt
+* On the Anaconda Prompt, use these commands :
 
 ```
     python app.py
