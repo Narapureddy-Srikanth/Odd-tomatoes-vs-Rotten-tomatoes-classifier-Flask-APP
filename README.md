@@ -28,6 +28,8 @@
     
 ```
 
+* Then browse to this URL http://localhost:5000/
+
 
 ### Home Page ###
 
