@@ -64,8 +64,8 @@ def model_predict(img_path):
     return string , classified_prob
 
 
-@app.route('/')
-def student():
+@app.route('/', methods = ['POST', 'GET'])
+def home():
     return render_template('index.html')
 
 
